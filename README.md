@@ -1,94 +1,124 @@
-<h1 align="center">Hi 👋, I'm Revati Singh</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=CSE+Student;DSA+Enthusiast;Full-Stack+Learner;GenAI+Explorer;Building+Projects+Every+Day" alt="Typing SVG" />
-</p>
+<div align="center">
 
-<h3 align="center">
-CSE Student | DSA Enthusiast | Full-Stack Learner | GenAI Explorer
-</h3>
+# > REVATI SINGH_
 
-<p align="center">
-Building interactive web applications, algorithm visualizers and AI-powered solutions.
-</p>
+### CSE Student • DSA Enthusiast • Full Stack Learner • GenAI Explorer
 
----
+```bash
+> booting developer profile...
 
-## 🚀 About Me
+[✓] loading projects
+[✓] loading skills
+[✓] loading roadmap
 
-🎓 B.Tech Computer Science Engineering Student
+system ready.
+```
 
-💡 Passionate about solving problems through code and continuously improving my technical skills.
-
-🌱 Currently focused on:
-
-* Data Structures & Algorithms
-* Full-Stack Development
-* Generative AI
-* Software Engineering Fundamentals
-
-🔭 Currently building:
-
-* AlgoScape Visualizer
-* AI-powered projects
-* Personal development projects
-
-🎯 Goals for 2026:
-
-* Solve 300+ DSA problems
-* Build impactful Full-Stack applications
-* Learn Generative AI development
-* Contribute to Open Source
-* Secure a Software Development Internship
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🖥️ WHOAMI
 
-### Languages
+```bash
+$ whoami
 
-* C++
-* Python
-* JavaScript
-* SQL
+Revati Singh
 
-### Frontend Development
+B.Tech Computer Science Engineering Student
 
-* HTML
-* CSS
-* React
-* Tailwind CSS
-
-### Backend & Database
-
-* Supabase
-* MySQL
-
-### Tools & Platforms
-
-* Git
-* GitHub
-* VS Code
-
-### Currently Exploring
-
-* Generative AI
-* LLM Applications
-* Prompt Engineering
-* AI Integrations
+Passionate about building software,
+visualizing algorithms,
+and exploring AI-powered applications.
+```
 
 ---
 
-## 🚀 Featured Projects
+# 📡 SYSTEM STATUS
 
-### 🧠 AlgoScape Visualizer
+```bash
+$ status
 
-Interactive algorithm visualization platform designed to make learning algorithms easier through animations and visual demonstrations.
+Name       : Revati Singh
+Role       : CSE Student
+Location   : India
 
-#### Features
+Current Focus
+-------------
+[█████████░] Data Structures & Algorithms
+
+[███████░░░] React Development
+
+[███████░░░] Tailwind CSS
+
+[█████░░░░░] Generative AI
+
+Current Build
+-------------
+AlgoScape Visualizer
+
+Target
+------
+Software Engineering Internship
+```
+
+---
+
+# ⚙️ TECH STACK
+
+```bash
+$ skills
+
+Languages
+----------
+C++
+Python
+JavaScript
+SQL
+
+Frontend
+---------
+HTML
+CSS
+React
+Tailwind CSS
+
+Database
+---------
+MySQL
+Supabase
+
+Tools
+------
+Git
+GitHub
+VS Code
+
+Currently Exploring
+-------------------
+Generative AI
+LLM Applications
+Prompt Engineering
+AI Integrations
+```
+
+---
+
+# 🚀 FEATURED PROJECTS
+
+```bash
+$ ls projects
+```
+
+## 🧠 AlgoScape Visualizer
+
+Interactive platform for learning algorithms through visualization.
+
+### Features
 
 * Breadth First Search (BFS)
 * Depth First Search (DFS)
-* Dijkstra's Algorithm
+* Dijkstra Algorithm
 * Sorting Visualizations
 * Interactive Controls
 
@@ -96,109 +126,156 @@ Interactive algorithm visualization platform designed to make learning algorithm
 
 ---
 
-### 🤖 Fake News Detection System
+## 🤖 Fake News Detection System
 
-Machine Learning project that classifies news articles as real or fake using Natural Language Processing techniques.
+Machine Learning project using Natural Language Processing techniques to classify fake and real news.
 
-**Tech Stack:** Python • NLP • Machine Learning
+**Tech Stack:** Python • Machine Learning • NLP
 
 ---
 
-### 🏢 ERP Management System
+## 🏢 ERP Management System
 
-Database Management System project for managing organizational resources and workflows efficiently.
+Database management solution focused on organizational resources and workflow management.
 
 **Tech Stack:** SQL • DBMS
 
 ---
 
-### 🛒 Amazon Homepage Clone
+## 🛒 Amazon Homepage Clone
 
-Responsive frontend implementation inspired by Amazon's homepage design.
+Responsive frontend implementation inspired by Amazon's homepage.
 
 **Tech Stack:** HTML • CSS
 
 ---
 
-## 📚 Learning Journey
+# 🎯 CURRENT QUESTS
 
-### Completed
+```bash
+[✓] Learn C++ Fundamentals
 
-✅ C++ Fundamentals
+[✓] Understand OOP Concepts
 
-✅ Object-Oriented Programming
+[⚡] Build AlgoScape
 
-✅ Basic Web Development
+[⚡] Solve 300+ DSA Problems
 
-✅ Database Fundamentals
+[⚡] Learn React Ecosystem
 
----
+[⚡] Explore Generative AI
 
-### In Progress
+[ ] Contribute to Open Source
 
-🔄 Data Structures & Algorithms
+[ ] Build Production-Level Applications
 
-🔄 React Development
-
-🔄 Tailwind CSS
-
-🔄 Generative AI
-
----
-
-### Upcoming
-
-⬜ Backend Development
-
-⬜ Open Source Contributions
-
-⬜ Cloud Fundamentals
-
-⬜ System Design Basics
-
----
-
-## 📈 Current Focus
-
-```text
-DSA               █████████░░ 80%
-React             ███████░░░░ 70%
-Tailwind CSS      ███████░░░░ 70%
-Generative AI     █████░░░░░░ 50%
-Backend           ███░░░░░░░░ 30%
+[ ] Secure Internship
 ```
 
 ---
 
-## 💭 Philosophy
+# 📚 LEARNING LOG
 
-> Consistency beats intensity.
->
-> Small improvements every day eventually create extraordinary results.
+```bash
+$ roadmap
+```
+
+### Completed
+
+```bash
+[✓] C++ Basics
+
+[✓] Object Oriented Programming
+
+[✓] HTML & CSS
+
+[✓] Database Fundamentals
+```
+
+### In Progress
+
+```bash
+[⚡] DSA
+
+[⚡] React
+
+[⚡] Tailwind CSS
+
+[⚡] Generative AI
+```
+
+### Next
+
+```bash
+[ ] Backend Development
+
+[ ] Open Source Contributions
+
+[ ] System Design Fundamentals
+
+[ ] Cloud Computing
+```
 
 ---
 
-## ⚡ Fun Facts
+# 💭 DEVELOPER PHILOSOPHY
 
-* I enjoy building visual and interactive learning tools.
-* I love understanding how algorithms work behind the scenes.
-* Currently exploring the intersection of Software Engineering and AI.
-* Always looking for opportunities to learn something new.
+```bash
+$ philosophy
 
----
+Consistency > Motivation
 
-## 🤝 Let's Connect
-
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-
-💼 LinkedIn: Your LinkedIn Profile
-
-🌐 Portfolio: Coming Soon
-
-🐙 GitHub: https://github.com/revati-singh
+Small improvements every day
+eventually lead to big results.
+```
 
 ---
 
-<h3 align="center">
-Thanks for visiting! ⭐
-</h3>
+# 🎮 SIDE QUEST
+
+```bash
+$ fun_fact
+
+I started my CSE journey with very little coding experience.
+
+Today I'm building algorithm visualizers,
+learning full stack development,
+and exploring Generative AI.
+
+Still learning.
+Still building.
+Still improving.
+```
+
+---
+
+# 📫 CONNECT
+
+```bash
+$ contact
+```
+
+GitHub:
+https://github.com/revati-singh
+
+LinkedIn:
+(Add Your LinkedIn)
+
+Email:
+(Add Your Email)
+
+Portfolio:
+Coming Soon...
+
+---
+
+<div align="center">
+
+```bash
+> thanks for visiting.
+
+See you in the next commit.
+```
+
+</div>
+
