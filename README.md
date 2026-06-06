@@ -1,18 +1,13 @@
 <div align="center">
 
 # REVATI SINGH
-
-### `~/developer` • `~/problem-solver` • `~/builder`
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=revati-singh&label=PROFILE+VIEWS&color=8b5cf6&style=for-the-badge"/>
+</p>
+### DSA • FULL STACK • GenAI
 
 ```bash
-$ initialize_profile
-
-[✓] DSA enthusiast loaded
-[✓] Full Stack learner loaded
-[✓] GenAI explorer loaded
-[✓] AlgoScape builder loaded
-
-System status: ONLINE
+focus > learn > build > repeat_
 ```
 
 </div>
@@ -58,117 +53,106 @@ Software Development Internship
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
+## ⚡ GITHUB DASHBOARD
+
+<p align="center">
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api?username=revati-singh&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=revati-singh&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=revati-singh&theme=tokyonight&hide_border=true"/>
+
+</p>
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=revati-singh&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 
-# ⚙️ TECH STACK
+<div align="center">
 
-```bash
-$ skills
+<img src="https://img.shields.io/badge/C++-8B5CF6?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 
-Languages
-----------
-C++
-Python
-JavaScript
-SQL
+<img src="https://img.shields.io/badge/Python-8B5CF6?style=for-the-badge&logo=python&logoColor=white"/>
 
-Frontend
----------
-HTML
-CSS
-React
-Tailwind CSS
+<img src="https://img.shields.io/badge/JavaScript-8B5CF6?style=for-the-badge&logo=javascript&logoColor=white"/>
 
-Database
----------
-MySQL
-Supabase
+<img src="https://img.shields.io/badge/React-8B5CF6?style=for-the-badge&logo=react&logoColor=white"/>
 
-Tools
-------
-Git
-GitHub
-VS Code
+<img src="https://img.shields.io/badge/Tailwind-8B5CF6?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-Currently Exploring
--------------------
-Generative AI
-LLM Applications
-Prompt Engineering
-AI Integrations
-```
+<img src="https://img.shields.io/badge/MySQL-8B5CF6?style=for-the-badge&logo=mysql&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Supabase-8B5CF6?style=for-the-badge&logo=supabase&logoColor=white"/>
 
-# 🚀 FEATURED PROJECTS
+<img src="https://img.shields.io/badge/Git-8B5CF6?style=for-the-badge&logo=git&logoColor=white"/>
+
+</div>
+
+## 🚀 PROJECT DIRECTORY
 
 ```bash
 $ ls projects
+
+01  AlgoScape-Visualizer
+02  Fake-News-Detection
+03  ERP-Management-System
+04  Amazon-Homepage-Clone
 ```
 
-## 🧠 AlgoScape Visualizer
+### 🧠 AlgoScape Visualizer
 
-Interactive platform for learning algorithms through visualization.
+Interactive platform for learning algorithms through visual simulations.
 
-### Features
+### 🤖 Fake News Detection
 
-* Breadth First Search (BFS)
-* Depth First Search (DFS)
-* Dijkstra Algorithm
-* Sorting Visualizations
-* Interactive Controls
+Machine Learning + NLP based classification project.
 
-**Tech Stack:** React • Vite • JavaScript
+### 🏢 ERP Management System
 
----
+Database-driven resource management application.
 
-## 🤖 Fake News Detection System
+### 🛒 Amazon Homepage Clone
 
-Machine Learning project using Natural Language Processing techniques to classify fake and real news.
+Responsive frontend implementation.
 
-**Tech Stack:** Python • Machine Learning • NLP
-
----
-
-## 🏢 ERP Management System
-
-Database management solution focused on organizational resources and workflow management.
-
-**Tech Stack:** SQL • DBMS
-
----
-
-## 🛒 Amazon Homepage Clone
-
-Responsive frontend implementation inspired by Amazon's homepage.
-
-**Tech Stack:** HTML • CSS
-
----
-
-# 🎯 CURRENT QUESTS
+## 🎯 CURRENT MISSION
 
 ```bash
-[✓] Learn C++ Fundamentals
+[✓] C++ Fundamentals
 
-[✓] Understand OOP Concepts
+[✓] OOP
 
-[⚡] Build AlgoScape
+[⚡] AlgoScape Development
 
-[⚡] Solve 300+ DSA Problems
+[⚡] DSA Problem Solving
 
-[⚡] Learn React Ecosystem
+[⚡] React Ecosystem
 
-[⚡] Explore Generative AI
+[⚡] Generative AI
 
-[ ] Contribute to Open Source
+[ ] Open Source Contributions
 
-[ ] Build Production-Level Applications
-
-[ ] Secure Internship
+[ ] Internship
 ```
+<p align="center">
 
----
+<img src="https://github-profile-trophy.vercel.app/?username=revati-singh&theme=tokyonight&row=1&column=7&no-frame=true"/>
+
+</p>
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=revati-singh&theme=tokyo-night&hide_border=true"/>
+
+</p>
 
 # 📚 LEARNING LOG
 
