@@ -40,24 +40,16 @@
 </table>
 
 <hr>
-
-<!-- LIVE GITHUB METRICS (FIXED LAYOUT) -->
+<!-- LIVE GITHUB METRICS -->
 <h2 align="center">🔥 Live Development Metrics</h2>
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <!-- Swapped to Top Languages Endpoint for better stability -->
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=revati-singh&layout=compact&theme=radical&hide_border=true&v=1" alt="Top Languages" />
-      </td>
-      <td align="center">
-        <!-- Streak Stats -->
-        <img src="https://streak-stats.demolab.com/?user=revati-singh&theme=radical&hide_border=true" alt="GitHub Streak" />
-      </td>
-    </tr>
-  </table>
-</div>
-
+<p align="center">
+  <a href="https://github.com/revati-singh">
+    <img src="https://github-readme-stats.vercel.app/api?username=revati-singh&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/revati-singh">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=revati-singh&theme=radical&hide_border=true" alt="GitHub Streak" />
+  </a>
+</p>
 <hr>
 
 <!-- THE CONTRIBUTION SNAKE (ANIMATED) -->
