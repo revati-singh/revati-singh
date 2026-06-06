@@ -1,68 +1,64 @@
 <div align="center">
 
-# > REVATI SINGH_
+# REVATI SINGH
 
-### CSE Student • DSA Enthusiast • Full Stack Learner • GenAI Explorer
+### `~/developer` • `~/problem-solver` • `~/builder`
 
 ```bash
-> booting developer profile...
+$ initialize_profile
 
-[✓] loading projects
-[✓] loading skills
-[✓] loading roadmap
+[✓] DSA enthusiast loaded
+[✓] Full Stack learner loaded
+[✓] GenAI explorer loaded
+[✓] AlgoScape builder loaded
 
-system ready.
+System status: ONLINE
 ```
 
 </div>
 
----
-
-# 🖥️ WHOAMI
 
 ```bash
-$ whoami
+$ who am i
 
 Revati Singh
 
 B.Tech Computer Science Engineering Student
 
-Passionate about building software,
-visualizing algorithms,
-and exploring AI-powered applications.
+Currently building strong foundations in:
+→ Data Structures & Algorithms
+→ Full Stack Development
+→ Generative AI
+
+Mission:
+Build software that is useful, scalable,
+and enjoyable to use.
 ```
 
----
-
-# 📡 SYSTEM STATUS
 
 ```bash
 $ status
 
-Name       : Revati Singh
-Role       : CSE Student
-Location   : India
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-Current Focus
--------------
-[█████████░] Data Structures & Algorithms
-
-[███████░░░] React Development
-
-[███████░░░] Tailwind CSS
-
-[█████░░░░░] Generative AI
-
-Current Build
--------------
+🟢 CURRENT PROJECT
 AlgoScape Visualizer
 
-Target
-------
-Software Engineering Internship
+🟢 ACTIVE LEARNING
+Data Structures & Algorithms
+
+🟢 EXPLORING
+Generative AI
+
+🔵 FRONTEND STACK
+React + Tailwind CSS
+
+🎯 TARGET
+Software Development Internship
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 ```
 
----
 
 # ⚙️ TECH STACK
 
